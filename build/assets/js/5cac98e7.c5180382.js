@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[641],{63891:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/CMorrison82z/TestDocs/blob/master","baseUrl":"/TestDocs/","classOrder":["Class"],"apiCategories":[]}')}}]);
