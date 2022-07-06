@@ -1,0 +1,25 @@
+classOrder = [
+	"Class"
+]
+
+[docusaurus]
+url = "https://cm82z.io"
+tagline = "Sample tag"
+
+[home]
+enabled = true
+includeReadme = true
+
+[[home.features]]
+title = "Versatile, composable, predictable"
+description = "Cool class."
+
+[[home.features]]
+title = "Rich API"
+description = "This API is nice."
+
+[[home.features]]
+title = "Third one"
+description = "Why no auto formatting?."
+
+gitSourceBranch = "primary"
